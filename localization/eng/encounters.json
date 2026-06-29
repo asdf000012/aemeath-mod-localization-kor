@@ -1,0 +1,12 @@
+{
+  "AEMEATH_INSATIABLE_MK2_BOSS_ENCOUNTER.title": "Insatiable Prototype",
+  "AEMEATH_INSATIABLE_MK2_BOSS_ENCOUNTER.loss": "{character} was defeated by {encounter}.",
+  "SIGILLUM_BOSS_ENCOUNTER.title": "Sigillum",
+  "SIGILLUM_BOSS_ENCOUNTER.loss": "{character} was defeated by {encounter}.",
+  "NAMELESS_EXPLORER_BOSS_ENCOUNTER.title": "Nameless Explorer",
+  "NAMELESS_EXPLORER_BOSS_ENCOUNTER.loss": "{character} was defeated by {encounter}.",
+  "AEMEATH_HAIVIXIA_BOSS_ENCOUNTER.title": "Haivixia",
+  "AEMEATH_HAIVIXIA_BOSS_ENCOUNTER.loss": "{character} was defeated by {encounter}.",
+  "AEMEATH_DENIA_BOSS_ENCOUNTER.title": "Denia",
+  "AEMEATH_DENIA_BOSS_ENCOUNTER.loss": "{character} was defeated by {encounter}."
+}

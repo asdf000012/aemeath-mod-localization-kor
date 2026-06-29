@@ -1,0 +1,12 @@
+{
+  "AEMEATHWW-RESONANCE_BREAK.title": "谐度破坏",
+  "AEMEATHWW-RESONANCE_BREAK.description": "目标偏谐已满时触发，造成 5% 最大生命伤害，附加2层易伤，施加2层干涉，获得1点能量，并清空偏谐/失谐。",
+  "AEMEATHWW-LIGHTWING_DESCEND.title": "降临",
+  "AEMEATHWW-LIGHTWING_DESCEND.description": "仅在爱弥斯形态触发。切换为隧者机兵形态，获得1点力量。若当前[img]res://aemeath-ww/ui/hover_tips/aemeath_sync_tip_icon.png[/img]至少为5，则消耗5点[img]res://aemeath-ww/ui/hover_tips/aemeath_sync_tip_icon.png[/img]，获得1点[img]res://aemeath-ww/ui/hover_tips/aemeath_star_tip_icon.png[/img]和1点[img]res://aemeath-ww/ui/hover_tips/aemeath_energy_tip_icon.png[/img]。",
+  "AEMEATHWW-LIGHTWING_ENSTAGE.title": "登台",
+  "AEMEATHWW-LIGHTWING_ENSTAGE.description": "仅在机兵形态触发。切换为爱弥斯形态，抽2张牌并获得1点敏捷。若当前[img]res://aemeath-ww/ui/hover_tips/aemeath_sync_tip_icon.png[/img]至少为5，则消耗5点[img]res://aemeath-ww/ui/hover_tips/aemeath_sync_tip_icon.png[/img]，获得1点[img]res://aemeath-ww/ui/hover_tips/aemeath_star_tip_icon.png[/img]和1点[img]res://aemeath-ww/ui/hover_tips/aemeath_energy_tip_icon.png[/img]。",
+  "AEMEATHWW-SHOCK_RESONANCE.title": "震谐",
+  "AEMEATHWW-SHOCK_RESONANCE.description": "当谐度破坏触发时，自动免费打出。若为单体牌，则指向触发谐度破坏的目标。结算后消耗。",
+  "AEMEATHWW-MELT.title": "熔解",
+  "AEMEATHWW-MELT.description": "若目标当前聚爆 <= 0，停止后续熔解。每次有效结算：造成等同于目标当前聚爆层数的伤害，然后使该目标聚爆 -1。若结算前聚爆至少为 5，附加 1 层虚弱。若结算前聚爆至少为 10，额外获得 2 点同步率。"
+}

@@ -1,0 +1,61 @@
+{
+  "AEMEATH_STARTER_RELIC.title": "Everlasting Morningstar",
+  "AEMEATH_STARTER_RELIC.flavor": "You fly through a silent sea of stars. Stardust breaks apart at your side, and time dies behind you. The long loneliness never vanished; it was stretched, diluted, and reshaped until it became part of your wings. The cosmos tests you with silence, and you answer by continuing forward in radiant light.",
+  "AEMEATH_STARTER_RELIC.description": "At the start of each combat, gain [img]res://aemeath-ww/ui/hover_tips/aemeath_sync_tip_icon.png[/img][img]res://aemeath-ww/ui/hover_tips/aemeath_sync_tip_icon.png[/img][img]res://aemeath-ww/ui/hover_tips/aemeath_sync_tip_icon.png[/img][img]res://aemeath-ww/ui/hover_tips/aemeath_sync_tip_icon.png[/img][img]res://aemeath-ww/ui/hover_tips/aemeath_sync_tip_icon.png[/img]. Whenever you play an Attack, gain [img]res://aemeath-ww/ui/hover_tips/aemeath_sync_tip_icon.png[/img].",
+  "AEMEATH_FLY_TOWARD_SPRING_RELIC.title": "Fly Toward Spring",
+  "AEMEATH_FLY_TOWARD_SPRING_RELIC.flavor": "It was a dream that first sprouted in childhood, folded into paper wings and lifted by the spring breeze, flying toward the far edge of the starsea. Now, I am finally able to travel at your side.",
+  "AEMEATH_FLY_TOWARD_SPRING_RELIC.description": "At the start of combat, gain [img]res://aemeath-ww/ui/hover_tips/aemeath_star_tip_icon.png[/img]. At the start of each turn, gain 1 [img]res://aemeath-ww/ui/hover_tips/aemeath_energy_tip_icon.png[/img]. Whenever you play a card, gain [img]res://aemeath-ww/ui/hover_tips/aemeath_sync_tip_icon.png[/img].",
+  "AEMEATH_AMULET_RELIC.title": "Amulet",
+  "AEMEATH_AMULET_RELIC.flavor": "An exclusive relic of Aemeath.",
+  "AEMEATH_AMULET_RELIC.description": "At the start of combat, gain 1 Buffer.",
+  "AEMEATH_PAPER_PLANE_RELIC.title": "Paper Plane",
+  "AEMEATH_PAPER_PLANE_RELIC.flavor": "An exclusive relic of Aemeath.",
+  "AEMEATH_PAPER_PLANE_RELIC.description": "The first time you spend Resonance each turn, draw 2 cards.",
+  "AEMEATH_GAME_CARTRIDGE_RELIC.title": "Game Cartridge",
+  "AEMEATH_GAME_CARTRIDGE_RELIC.flavor": "An exclusive relic of Aemeath.",
+  "AEMEATH_GAME_CARTRIDGE_RELIC.description": "At the start of combat, apply 5 Off Tune to a random enemy.",
+  "AEMEATH_CONCERT_POSTER_RELIC.title": "Concert Poster",
+  "AEMEATH_CONCERT_POSTER_RELIC.flavor": "An exclusive relic of Aemeath.",
+  "AEMEATH_CONCERT_POSTER_RELIC.description": "At the start of combat, gain 3 Gold for each enemy.",
+  "AEMEATH_SUPER_LEOPARD_BLIZZARD_RELIC.title": "Super Leopard Blizzard",
+  "AEMEATH_SUPER_LEOPARD_BLIZZARD_RELIC.flavor": "An exclusive relic of Aemeath.",
+  "AEMEATH_SUPER_LEOPARD_BLIZZARD_RELIC.description": "At the start of combat, gain 3 additional Energy. On later turns, your Energy is retained and you lose 1 Energy at the start of turn.",
+  "AEMEATH_TUNNELER_FIGURE_RELIC.title": "Tunneler Figure",
+  "AEMEATH_TUNNELER_FIGURE_RELIC.flavor": "An exclusive relic of Aemeath.",
+  "AEMEATH_TUNNELER_FIGURE_RELIC.description": "Increase Fusion Burst cap by 5. Whenever Auto-Burst triggers, gain 1 [img]res://aemeath-ww/ui/hover_tips/aemeath_energy_tip_icon.png[/img]."
+  ,"AEMEATH_TASK_ANIM_TEST_RELIC.title": "Task Animation Tester"
+  ,"AEMEATH_TASK_ANIM_TEST_RELIC.flavor": "A relic used to test scrambled mission text decoding."
+  ,"AEMEATH_TASK_ANIM_TEST_RELIC.description": "Inspect this relic to read your current mission."
+  ,"AEMEATH_TASK_ANIM_TEST_RELIC_TASK.title": "Mission"
+  ,"AEMEATH_TASK_ANIM_TEST_RELIC_TASK.description": "Deal 20 damage this turn."
+  ,"AEMEATH_STARWHEEL_INSIGHT_RELIC.title": "Starwheel Insight"
+  ,"AEMEATH_STARWHEEL_INSIGHT_RELIC.flavor": "Ancient-exclusive placeholder relic."
+  ,"AEMEATH_STARWHEEL_INSIGHT_RELIC.description": "At the start of each turn, gain 1 Energy. At the start of combat, draw 2 fewer cards."
+  ,"AEMEATH_STAR_BLUEPRINT_RELIC.title": "Blueprint of Star Imprints"
+  ,"AEMEATH_STAR_BLUEPRINT_RELIC.flavor": "Ancient-exclusive placeholder relic."
+  ,"AEMEATH_STAR_BLUEPRINT_RELIC.description": "You may ignore paths when choosing the next room, with no limit."
+  ,"AEMEATH_XIXI_JELLY_RELIC.title": "Special Xixi Jelly"
+  ,"AEMEATH_XIXI_JELLY_RELIC.flavor": "Ancient-exclusive placeholder relic."
+  ,"AEMEATH_XIXI_JELLY_RELIC.description": "At the start of combat, heal 15 HP."
+  ,"AEMEATH_DESTINED_TIMEPIECE_RELIC.title": "Timepiece of the Destined Future"
+  ,"AEMEATH_DESTINED_TIMEPIECE_RELIC.flavor": "Ancient-exclusive placeholder relic."
+  ,"AEMEATH_DESTINED_TIMEPIECE_RELIC.description": "At the start of turn 3, deal 30 damage to all enemies. At the start of turn 6, deal 60 damage to all enemies."
+  ,"AEMEATH_FURNACE_CORE_RELIC.title": "Furnace Core"
+  ,"AEMEATH_FURNACE_CORE_RELIC.flavor": "Ancient-exclusive placeholder relic."
+  ,"AEMEATH_FURNACE_CORE_RELIC.description": "At the start of each turn, lose 1 Max HP and draw until your hand is full."
+  ,"AEMEATH_DETERMINATION_RELIC.title": "Determination"
+  ,"AEMEATH_DETERMINATION_RELIC.flavor": "An ancient-exclusive relic."
+  ,"AEMEATH_DETERMINATION_RELIC.description": "When obtained, add 1 Anonymous Blessing to your deck."
+  ,"AEMEATH_LOGISTICS_DELIVERY_BOX_RELIC.title": "Wuwu Logistics Delivery Box"
+  ,"AEMEATH_LOGISTICS_DELIVERY_BOX_RELIC.flavor": "An ancient-exclusive relic."
+  ,"AEMEATH_LOGISTICS_DELIVERY_BOX_RELIC.description": "When obtained, gain three Rare card rewards from 3 random characters. Each reward contains 3 cards."
+  ,"AEMEATH_SNOW_LEOPARD_LEOPARD_RELIC.title": "Snow Leopard Leopard"
+  ,"AEMEATH_SNOW_LEOPARD_LEOPARD_RELIC.flavor": "They look perfectly round."
+  ,"AEMEATH_SNOW_LEOPARD_LEOPARD_RELIC.description": "A Snow Leopard Leopard will accompany you in battle. When obtained, add 1 [gold]Charge! Chaaaaarge![/gold] to your deck."
+  ,"AEMEATH_CANNED_EFFICIENCY_RELIC.title": "Canned Efficiency"
+  ,"AEMEATH_CANNED_EFFICIENCY_RELIC.flavor": "A dish Morning completed during a cooking class in her student days. She skipped the decorative fruit on top and added large amounts of Dusk Honey instead, greatly improving single-bite energy replenishment efficiency. According to classmates from that lesson, she also tried to add fish and wet fern clumps for nutritional balance... Very sweet, but efficient."
+  ,"AEMEATH_CANNED_EFFICIENCY_RELIC.description": "At the start of combat, lose {HpLoss} HP. Gain {Energy:energyIcons()} and draw {Cards} cards."
+  ,"AEMEATH_COUNTERFEIT_DWARF_STAR_RELIC.title": "Counterfeit Dwarf Star"
+  ,"AEMEATH_COUNTERFEIT_DWARF_STAR_RELIC.flavor": "Like a forged collapsed star cupped in your palm, it hangs in stillness, as if ready to drag everything nearby into a distorted night sky."
+  ,"AEMEATH_COUNTERFEIT_DWARF_STAR_RELIC.description": "At the end of each of your turns, all enemies lose 5 Fusion Burst. Your Melt no longer consumes Fusion Burst."
+}

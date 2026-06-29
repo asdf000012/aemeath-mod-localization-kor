@@ -1,0 +1,8 @@
+﻿{
+  "AEMEATH_ENERGY_COUNT.title": "Energy",
+  "AEMEATH_ENERGY_COUNT.description": "Your current Energy ({singleEnergyIcon}) count. Cards require {singleEnergyIcon} to play, shown in the top-left corner.",
+  "AEMEATH_RESONANCE_COUNT.title": "Resonance",
+  "AEMEATH_RESONANCE_COUNT.description": "Your current Resonance count ({singleStarIcon}). Some Aemeath cards require {singleStarIcon} to play.",
+  "AEMEATH_SYNC_COUNT.title": "Sync Rate",
+  "AEMEATH_SYNC_COUNT.description": "Your current Sync ({singleSyncIcon}) count. Some Aemeath cards require {singleSyncIcon} to play."
+}

@@ -1,0 +1,11 @@
+# Editor / OS
+.vscode/
+.idea/
+*.user
+*.suo
+Thumbs.db
+.DS_Store
+
+# Temporary files
+*.tmp
+*.bak

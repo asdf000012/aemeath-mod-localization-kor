@@ -1,0 +1,12 @@
+{
+  "AEMEATHWW-RESONANCE_BREAK.title": "Resonance Break",
+  "AEMEATHWW-RESONANCE_BREAK.description": "Triggers when target Off Tune is full: deal 5% Max HP damage, apply 2 Vulnerable, enter 2 Interference, gain 1 Energy, and clear Off Tune/Dissonance.",
+  "AEMEATHWW-LIGHTWING_DESCEND.title": "Lightwing Ensemble - Descend",
+  "AEMEATHWW-LIGHTWING_DESCEND.description": "Only triggers while in Aemeath form. Switch to Exostrider form and gain 1 Strength. If you have at least 5 [img]res://aemeath-ww/ui/hover_tips/aemeath_sync_tip_icon.png[/img], spend 5 [img]res://aemeath-ww/ui/hover_tips/aemeath_sync_tip_icon.png[/img] to gain 1 [img]res://aemeath-ww/ui/hover_tips/aemeath_star_tip_icon.png[/img] and 1 [img]res://aemeath-ww/ui/hover_tips/aemeath_energy_tip_icon.png[/img].",
+  "AEMEATHWW-LIGHTWING_ENSTAGE.title": "Lightwing Ensemble - Enstage",
+  "AEMEATHWW-LIGHTWING_ENSTAGE.description": "Only triggers while in Exostrider form. Switch to Aemeath form, draw 2 cards, and gain 1 Dexterity. If you have at least 5 [img]res://aemeath-ww/ui/hover_tips/aemeath_sync_tip_icon.png[/img], spend 5 [img]res://aemeath-ww/ui/hover_tips/aemeath_sync_tip_icon.png[/img] to gain 1 [img]res://aemeath-ww/ui/hover_tips/aemeath_star_tip_icon.png[/img] and 1 [img]res://aemeath-ww/ui/hover_tips/aemeath_energy_tip_icon.png[/img].",
+  "AEMEATHWW-SHOCK_RESONANCE.title": "Shock Resonance",
+  "AEMEATHWW-SHOCK_RESONANCE.description": "When Resonance Break triggers, automatically play this card for free. Single-target cards target the enemy that triggered Resonance Break. Exhaust after resolving.",
+  "AEMEATHWW-MELT.title": "Melt",
+  "AEMEATHWW-MELT.description": "If the target's current Fusion Burst is <= 0, stop resolving remaining Melts. Each effective Melt deals damage equal to the target's current Fusion Burst, then reduces that target's Fusion Burst by 1. If Fusion Burst before resolving is at least 5, apply 1 Weak. If Fusion Burst before resolving is at least 10, additionally gain 2 Sync."
+}

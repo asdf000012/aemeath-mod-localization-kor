@@ -1,0 +1,8 @@
+﻿{
+  "AEMEATH_ENERGY_COUNT.title": "能量",
+  "AEMEATH_ENERGY_COUNT.description": "你当前的能量（{singleEnergyIcon}）数。卡牌需要{singleEnergyIcon}才能打出，耗能显示在牌的左上角。",
+  "AEMEATH_RESONANCE_COUNT.title": "共鸣率",
+  "AEMEATH_RESONANCE_COUNT.description": "你当前的共鸣层数（{singleStarIcon}）。爱弥斯的部分卡牌可能会需要{singleStarIcon}才能打出。",
+  "AEMEATH_SYNC_COUNT.title": "同步率",
+  "AEMEATH_SYNC_COUNT.description": "你当前的同步率（{singleSyncIcon}）。爱弥斯的部分卡牌可能会需要{singleSyncIcon}才能打出。"
+}

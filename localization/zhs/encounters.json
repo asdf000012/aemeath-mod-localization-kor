@@ -1,0 +1,12 @@
+{
+  "AEMEATH_INSATIABLE_MK2_BOSS_ENCOUNTER.title": "虚诞虫",
+  "AEMEATH_INSATIABLE_MK2_BOSS_ENCOUNTER.loss": "{character} 倒在了 {encounter} 面前。",
+  "SIGILLUM_BOSS_ENCOUNTER.title": "辛吉勒姆",
+  "SIGILLUM_BOSS_ENCOUNTER.loss": "{character} 倒在了 {encounter} 面前。",
+  "NAMELESS_EXPLORER_BOSS_ENCOUNTER.title": "无铭探索者",
+  "NAMELESS_EXPLORER_BOSS_ENCOUNTER.loss": "{character} 倒在了 {encounter} 面前。",
+  "AEMEATH_HAIVIXIA_BOSS_ENCOUNTER.title": "海维夏",
+  "AEMEATH_HAIVIXIA_BOSS_ENCOUNTER.loss": "{character} 倒在了 {encounter} 面前。",
+  "AEMEATH_DENIA_BOSS_ENCOUNTER.title": "达妮娅",
+  "AEMEATH_DENIA_BOSS_ENCOUNTER.loss": "{character} 倒在了 {encounter} 面前。"
+}

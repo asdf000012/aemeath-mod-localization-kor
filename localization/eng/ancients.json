@@ -1,0 +1,22 @@
+{
+  "THE_ARCHITECT.talk.AEMEATHWW-AEMEATH.0-0.char": "So this is the top of the Spire?",
+  "THE_ARCHITECT.talk.AEMEATHWW-AEMEATH.0-0.next": "Respond",
+  "THE_ARCHITECT.talk.AEMEATHWW-AEMEATH.0-1.ancient": "Begin again from the start.",
+
+  "AEMEATH_XIANGU_ANCIENT.title": "Tunneler",
+  "AEMEATH_XIANGU_ANCIENT.epithet": "The Burrower Between Layers",
+  "AEMEATH_XIANGU_ANCIENT.pages.INITIAL.description": "A hidden ancient emerges from beneath the dust and offers three relics. Choose one.",
+  "AEMEATH_XIANGU_ANCIENT.pages.DONE.description": "The ancient slips back underground, leaving only traces in the dust.",
+
+  "AEMEATH_XIANGU_ANCIENT.talk.firstVisitEver.0-0.char": "You found me before I was ready.",
+  "AEMEATH_XIANGU_ANCIENT.talk.firstVisitEver.0-0.next": "Respond",
+  "AEMEATH_XIANGU_ANCIENT.talk.firstVisitEver.0-1.ancient": "Take one relic, then keep moving.",
+  "AEMEATH_XIANGU_ANCIENT.talk.firstVisitEver.0-0.ancient": "You found me before I was ready.",
+  "AEMEATH_XIANGU_ANCIENT.talk.firstvisitEver.0-0.ancient": "You found me before I was ready.",
+  "AEMEATH_XIANGU_ANCIENT.talk.ANY.0-0r.char": "Who are you?",
+  "AEMEATH_XIANGU_ANCIENT.talk.ANY.0-0r.next": "Respond",
+  "AEMEATH_XIANGU_ANCIENT.talk.ANY.0-1r.ancient": "A traveler in the deeper layers. Take one relic and move on.",
+  "AEMEATH_XIANGU_ANCIENT.talk.AEMEATHWW-AEMEATH.0-0r.char": "You are... another survivor here?",
+  "AEMEATH_XIANGU_ANCIENT.talk.AEMEATHWW-AEMEATH.0-0r.next": "Respond",
+  "AEMEATH_XIANGU_ANCIENT.talk.AEMEATHWW-AEMEATH.0-1r.ancient": "Names are noise. Pick one relic, and keep walking."
+}
