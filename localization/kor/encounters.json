@@ -1,0 +1,12 @@
+{
+  "AEMEATH_INSATIABLE_MK2_BOSS_ENCOUNTER.title": "보이드웜",
+  "AEMEATH_INSATIABLE_MK2_BOSS_ENCOUNTER.loss": "{character}는 {encounter}에 의해 쓰러졌습니다.",
+  "SIGILLUM_BOSS_ENCOUNTER.title": "시길룸",
+  "SIGILLUM_BOSS_ENCOUNTER.loss": "{character}는 {encounter}에 의해 쓰러졌습니다.",
+  "NAMELESS_EXPLORER_BOSS_ENCOUNTER.title": "이름없는 탐색자",
+  "NAMELESS_EXPLORER_BOSS_ENCOUNTER.loss": "{character}는 {encounter}에 의해 쓰러졌습니다.",
+  "AEMEATH_HAIVIXIA_BOSS_ENCOUNTER.title": "하이와티아",
+  "AEMEATH_HAIVIXIA_BOSS_ENCOUNTER.loss": "{character}는 {encounter}에 의해 쓰러졌습니다.",
+  "AEMEATH_DENIA_BOSS_ENCOUNTER.title": "데니아",
+  "AEMEATH_DENIA_BOSS_ENCOUNTER.loss": "{character}는 {encounter}에 의해 쓰러졌습니다."
+}

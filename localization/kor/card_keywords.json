@@ -1,0 +1,12 @@
+{
+  "AEMEATHWW-RESONANCE_BREAK.title": "조화도 파괴",
+  "AEMEATHWW-RESONANCE_BREAK.description": "대상의 부조화 수치가 가득 차면 발동합니다. 최대 체력의 5%만큼 피해를 주고, 취약을 2 부여하며, 조화도 간섭을 2 얻고, 에너지를 1 얻은 후 부조화 수치와 조화 소실 상태를 제거합니다.",
+  "AEMEATHWW-LIGHTWING_DESCEND.title": "빛나는 날개의 합주 시간 - 강림",
+  "AEMEATHWW-LIGHTWING_DESCEND.description": "에이메스 형태일 때만 발동합니다. 메카스카우트 형태로 전환하고 힘을 1 얻습니다. [img]res://aemeath-ww/ui/hover_tips/aemeath_sync_tip_icon.png[/img]가 5 이상이라면, 5 [img]res://aemeath-ww/ui/hover_tips/aemeath_sync_tip_icon.png[/img]를 소모하여 1 [img]res://aemeath-ww/ui/hover_tips/aemeath_star_tip_icon.png[/img]와 1 [img]res://aemeath-ww/ui/hover_tips/aemeath_energy_tip_icon.png[/img]를 얻습니다.",
+  "AEMEATHWW-LIGHTWING_ENSTAGE.title": "빛나는 날개의 합주 시간 - 등장",
+  "AEMEATHWW-LIGHTWING_ENSTAGE.description": "메카스카우트 형태일 때만 발동합니다. 에이메스 형태로 전환하고 카드를 2장 뽑으며, 민첩을 1 얻습니다. [img]res://aemeath-ww/ui/hover_tips/aemeath_sync_tip_icon.png[/img]가 5 이상이라면, 5 [img]res://aemeath-ww/ui/hover_tips/aemeath_sync_tip_icon.png[/img]를 소모하여 1 [img]res://aemeath-ww/ui/hover_tips/aemeath_star_tip_icon.png[/img]와 1 [img]res://aemeath-ww/ui/hover_tips/aemeath_energy_tip_icon.png[/img]를 얻습니다.",
+  "AEMEATHWW-SHOCK_RESONANCE.title": "조화 파동",
+  "AEMEATHWW-SHOCK_RESONANCE.description": "조화도 파괴가 발동할 때, 비용 없이 이 카드를 자동으로 사용합니다. 단일 대상 카드는 조화도 파괴를 발동시킨 적을 대상으로 지정합니다.\n효과 적용 후 소멸합니다.",
+  "AEMEATHWW-MELT.title": "융해",
+  "AEMEATHWW-MELT.description": "대상의 현재 불꽃 효과가 0 이하라면, 남은 융해의 적용을 중지합니다. 유효한 각 융해는 대상의 현재 불꽃 효과 수치만큼 피해를 주고, 해당 대상의 불꽃 효과를 1 감소시킵니다. 적용 전 불꽃 효과가 5 이상이었다면 약화를 1 부여합니다. 적용 전 불꽃 효과가 10 이상이었다면 추가로 동기화율을 2 얻습니다."
+}

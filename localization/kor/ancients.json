@@ -1,0 +1,22 @@
+{
+  "THE_ARCHITECT.talk.AEMEATHWW-AEMEATH.0-0.char": "여기가 첨탑의 꼭대기인가?",
+  "THE_ARCHITECT.talk.AEMEATHWW-AEMEATH.0-0.next": "대답한다",
+  "THE_ARCHITECT.talk.AEMEATHWW-AEMEATH.0-1.ancient": "처음부터 다시 시작하라.",
+  
+  "AEMEATH_XIANGU_ANCIENT.title": "엑소스트라이더",
+  "AEMEATH_XIANGU_ANCIENT.epithet": "유사 수호신",
+  "AEMEATH_XIANGU_ANCIENT.pages.INITIAL.description": "숨겨진 고대인이 먼지 아래에서 나타나 3개의 유물을 제안합니다. 하나를 선택하세요.",
+  "AEMEATH_XIANGU_ANCIENT.pages.DONE.description": "고대인은 먼지 속에 흔적만 남긴 채, 다시 지하로 사라집니다.",
+  
+  "AEMEATH_XIANGU_ANCIENT.talk.firstVisitEver.0-0.char": "내가 준비되기도 전에 나를 찾아냈군.",
+  "AEMEATH_XIANGU_ANCIENT.talk.firstVisitEver.0-0.next": "대답한다",
+  "AEMEATH_XIANGU_ANCIENT.talk.firstVisitEver.0-1.ancient": "유물을 하나 챙기고, 계속 나아가라.",
+  "AEMEATH_XIANGU_ANCIENT.talk.firstVisitEver.0-0.ancient": "내가 준비되기도 전에 나를 찾아냈군.",
+  "AEMEATH_XIANGU_ANCIENT.talk.firstvisitEver.0-0.ancient": "내가 준비되기도 전에 나를 찾아냈군.",
+  "AEMEATH_XIANGU_ANCIENT.talk.ANY.0-0r.char": "당신은 누구지?",
+  "AEMEATH_XIANGU_ANCIENT.talk.ANY.0-0r.next": "대답한다",
+  "AEMEATH_XIANGU_ANCIENT.talk.ANY.0-1r.ancient": "더 깊은 층을 여행하는 자. 유물을 하나 챙겨서 계속 나아가라.",
+  "AEMEATH_XIANGU_ANCIENT.talk.AEMEATHWW-AEMEATH.0-0r.char": "당신은... 이곳의 또 다른 생존자인가?",
+  "AEMEATH_XIANGU_ANCIENT.talk.AEMEATHWW-AEMEATH.0-0r.next": "대답한다",
+  "AEMEATH_XIANGU_ANCIENT.talk.AEMEATHWW-AEMEATH.0-1r.ancient": "이름은 소음에 불과하다. 유물을 하나 고르고, 계속 걸어가라."
+}
